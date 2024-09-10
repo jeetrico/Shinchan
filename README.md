@@ -27,14 +27,14 @@ To run this script, you need to have Python installed on your system. The Turtle
 2. Run the script using Python:
 
     ```bash
-    python shinchan_drawing.py
+    python shinchan.py
     ```
 
 3. A Turtle graphics window will open displaying the Shinchan drawing.
 
 ## File Description
 
-- `shinchan_drawing.py`: The main Python script that generates the drawing of Shinchan using the Turtle graphics library.
+- `shinchan.py`: The main Python script that generates the drawing of Shinchan using the Turtle graphics library.
 
 ## License
 
