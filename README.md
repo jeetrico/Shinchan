@@ -1,6 +1,7 @@
 # Shinchan Drawing with Python Turtle Graphics
 
 This repository contains a Python script that uses the Turtle graphics library to create a detailed drawing of Shinchan, a popular character from the Japanese anime *Crayon Shin-chan*. The script captures various elements such as Shinchan's distinct outfit, facial features, and accessories.
+![Screenshot 2024-09-10 163029](https://github.com/user-attachments/assets/7eedc6a0-2d28-4a09-85b2-f98281d58487)
 
 ## Prerequisites
 
